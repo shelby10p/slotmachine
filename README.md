@@ -1,0 +1,2 @@
+# slotmachine
+python project
